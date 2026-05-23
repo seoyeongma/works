@@ -23,12 +23,12 @@ body {
 
   margin-bottom: 60px;
 
-  font-size: 40px;
+  font-size: 38px;
   letter-spacing: 0.02em;
 }
 
 .name {
-  font-size: 42px;
+  font-size: 38px;
   font-weight: 400;
 }
 
@@ -90,7 +90,7 @@ nav a:hover {
 .caption {
   margin-top: 14px;
 
-  font-size: 18px;
+  font-size: 20px;
 
   text-align: center;
 
