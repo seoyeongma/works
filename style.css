@@ -144,6 +144,11 @@ nav a:hover {
   display: block;
 }
 
+.detail-text {
+
+  margin-top: 120px;
+}
+
 .detail-text h1 {
 
   font-size: 28px;
@@ -152,7 +157,6 @@ nav a:hover {
 
   margin-bottom: 20px;
 }
-
 .detail-text p {
 
   margin-bottom: 16px;
