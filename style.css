@@ -175,6 +175,45 @@ nav a:hover {
 
   line-height: 1.4;
 }
+/* description section */
+
+.work-description {
+
+  max-width: 900px;
+
+  margin: 120px auto;
+
+  font-size: 18px;
+
+  line-height: 1.8;
+}
+
+.work-description p {
+
+  margin-bottom: 30px;
+}
+
+/* installation images */
+
+.installation-images {
+
+  max-width: 1400px;
+
+  margin: 0 auto 120px auto;
+
+  display: grid;
+
+  grid-template-columns: 1fr;
+
+  gap: 40px;
+}
+
+.installation-images img {
+
+  width: 100%;
+
+  display: block;
+}
 
 /* mobile */
 
