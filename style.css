@@ -182,9 +182,9 @@ nav a:hover {
   max-width: 900px;
 
   margin: 140px auto 120px auto;
-
-  text-align: center;
 }
+
+/* description text */
 
 .work-description p {
 
@@ -193,16 +193,18 @@ nav a:hover {
   line-height: 1.8;
 
   margin-bottom: 40px;
+
+  text-align: center;
 }
 
 /* installation images */
 
 .installation-images {
 
-  max-width: 1400px;
-
-  margin: 0 auto 140px auto;
+  margin-top: 80px;
 }
+
+/* installation image */
 
 .installation-images img {
 
@@ -212,7 +214,6 @@ nav a:hover {
 
   margin-bottom: 40px;
 }
-
 /* mobile */
 
 @media (max-width: 900px) {
