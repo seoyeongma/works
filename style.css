@@ -214,6 +214,23 @@ nav a:hover {
 
   margin-bottom: 40px;
 }
+
+/* contact page */
+
+.contact-page {
+
+  margin-top: 180px;
+
+  text-align: center;
+}
+
+.contact-page p {
+
+  font-size: 22px;
+
+  line-height: 2.4;
+}
+
 /* mobile */
 
 @media (max-width: 900px) {
